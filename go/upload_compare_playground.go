@@ -11,7 +11,7 @@
 // Example:
 // >go build upload_compare_playground.go
 // 
-// >cat hello.go | 1.exe
+// >cat hello.go | upload_compare_playground.exe
 // Shareable URL: https://play.golang.org/p/HmnNoBf0p1z
 // Code:
 // package main
